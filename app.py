@@ -14,6 +14,7 @@ import requests
 from pathlib import Path
 import warnings
 
+
 warnings.filterwarnings('ignore')
 
 # Page configuration
